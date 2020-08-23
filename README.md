@@ -1,0 +1,1 @@
+This repository is containing all Azure functions I wrote/used on Azure.
